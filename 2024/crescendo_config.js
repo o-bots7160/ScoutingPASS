@@ -7,6 +7,7 @@ var config_data = `
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter Initials",
+    "gsCol": "Scouter",
       "code": "s",
       "type": "scouter",
       "size": 5,
@@ -14,12 +15,14 @@ var config_data = `
       "required": "true"
     },
     { "name": "Event",
+    "gsCol": "Event",
       "code": "e",
       "type": "event",
       "defaultValue": "2023tnkn",
       "required": "true"
     },
     { "name": "Match Level",
+    "gsCol": "MatchLevel",
       "code": "l",
       "type": "level",
       "choices": {
