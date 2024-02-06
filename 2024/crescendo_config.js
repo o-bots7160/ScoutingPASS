@@ -18,7 +18,7 @@ var config_data = `
     "gsCol": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2023nyro",
+      "defaultValue": "2020ilch",
       "required": "true"
     },
     { "name": "Match Level",
