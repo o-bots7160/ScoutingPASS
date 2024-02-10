@@ -2,7 +2,7 @@ var config_data = `
 {
   "dataFormat": "tsv",
   "title": "Scouting PASS 2024",
-  "page_title": "Crescendo",
+  "page_title": "O-Bots Crescendo",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter Initials",
