@@ -33,7 +33,7 @@ var config_data = `
       "defaultValue": "qm",
       "required": "true"
     },
-    { "name": "Match #",
+    { "name": "zatch #",
       "gsCol": "Match#",
       "code": "m",
       "type": "match",
