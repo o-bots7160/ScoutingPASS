@@ -2,7 +2,7 @@ var config_data = `
 {
   "enable_google_sheets": "true",
   "title": "!Scouting PASS 2024",
-  "page_title": "O-Bots 7160 Crescendo",
+  "page_title": "O-Bots 7160 Crescendo!",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter Initials",
