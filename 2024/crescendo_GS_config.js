@@ -34,7 +34,7 @@ var config_data = `
     },
     { "name": "Match #",
       "code": "m",
-      "gsCol": "Match#",
+      "gsCol": "Match",
       "type": "match",
       "min": 1,
       "max": 150,
