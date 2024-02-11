@@ -2,7 +2,7 @@ var config_data = `
 {
   "enable_google_sheets": "true",
   "title": "Scouting PASS 2024",
-  "page_title": "O-Bots 7160 Crescendo",
+  "page_title": "!O-Bots 7160 Crescendo",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter Initials",
@@ -15,12 +15,14 @@ var config_data = `
     },
     { "name": "Event",
       "code": "e",
+      "gsCol": "Event",
       "type": "event",
       "defaultValue": "2023mitvc",
       "required": "true"
     },
     { "name": "Match Level",
       "code": "l",
+      "gsCol": "MatchLevel",
       "type": "level",
       "choices": {
         "qm": "Quals<br>",
@@ -32,6 +34,7 @@ var config_data = `
     },
     { "name": "Match #",
       "code": "m",
+      "gsCol": "Match#",
       "type": "match",
       "min": 1,
       "max": 150,
