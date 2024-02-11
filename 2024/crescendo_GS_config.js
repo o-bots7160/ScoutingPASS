@@ -38,6 +38,7 @@ var config_data = `
       "type": "match",
       "min": 1,
       "max": 150,
+      "defaultValue": "5",
       "required": "true"
     },
     { "name": "Robot",
@@ -51,6 +52,7 @@ var config_data = `
         "r3": "Red-3",
         "b3": "Blue-3"
       },
+      "defaultValue": "r1",
       "required":"true"
     },
     { "name": "Team #",
