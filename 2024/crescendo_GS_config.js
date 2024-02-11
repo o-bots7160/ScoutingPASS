@@ -1,7 +1,7 @@
 var config_data = `
 {
   "enable_google_sheets": "true",
-  "dataFormat": "tsv",
+  //"dataFormat": "tsv",
   "title": "Scouting PASS 2024",
   "page_title": "O-Bots 7160 Crescendo",
   "checkboxAs": "10",
